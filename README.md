@@ -7,7 +7,7 @@
 ##
 <div>
 <a href="https://www.instagram.com/gohanleitura?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
-<a href=""enzoam0707@gmail.com" <enzoam0707@gmail.com>" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+<a href="enzoam0707@gmail.com" <enzoam0707@gmail.com>" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 </div>
  
  
