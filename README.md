@@ -12,6 +12,10 @@
  <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  &nbsp;
 </div>
-
+<div align="center">
+<br><p align="centre"><b>Visitantes:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EnzoAlvesMatos}/count.svg" /></p> 
+<br>
+</div>
  
 
