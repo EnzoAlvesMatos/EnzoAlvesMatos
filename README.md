@@ -1,6 +1,14 @@
 # Oii, me chamo Enzo!
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <br>
   ##
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,react)](https://skillicons.dev)<br/>
@@ -12,10 +20,6 @@
  <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  &nbsp;
 </div>
-<div align="center">
-<br><p align="centre"><b>Visitantes:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EnzoAlvesMatos}/count.svg" /></p> 
-<br>
-</div>
+
  
 
