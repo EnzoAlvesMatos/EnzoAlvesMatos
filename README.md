@@ -2,10 +2,10 @@
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoAlvesMatos/EnzoAlvesMatos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoAlvesMatos/EnzoAlvesMatos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EnzoAlvesMatos/EnzoAlvesMatos/output/github-contribution-grid-snake.svg">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
