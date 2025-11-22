@@ -1,6 +1,5 @@
 # 👍 Oii, me chamo Enzo!
 
-<img align="right" width="200px"  alt="i" src="https://github.com/user-attachments/assets/eda86f53-7293-419f-bd75-fa5570d65e64" />
 
 ### 👨‍💻Sobre Mim
 Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino médio em 2024 e, atualmente, faço o curso técnico de Desenvolvimento de Sistemas na Etec Zona Leste. Eu adoro estudar e quero sempre evoluir e aprimorar meu conhecimento.
@@ -14,6 +13,7 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
  <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-00008b?style=for-the-badge&logo=facebook&logoColor=white"></a>
  &nbsp;
 </div>
+
 
   ##
   
