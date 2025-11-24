@@ -4,6 +4,12 @@
 ### 👨‍💻Sobre Mim
 Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino médio em 2024 e, atualmente, faço o curso técnico de Desenvolvimento de Sistemas na Etec Zona Leste. Eu adoro estudar e quero sempre evoluir e aprimorar meu conhecimento.
 <br>
+### 💻Projetos
+
+
+* [Projeto de HTML e CSS](https://github.com/EnzoAlvesMatos/curso-html-css.git) é um projeto que possui alguns códigos basicos a avançado de HTML e CSS
+
+
 ### 📩 Minhas Redes Sociais
 <br>
 <div>
