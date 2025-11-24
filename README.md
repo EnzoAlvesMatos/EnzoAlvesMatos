@@ -4,11 +4,6 @@
 ### 👨‍💻Sobre Mim
 Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino médio em 2024 e, atualmente, faço o curso técnico de Desenvolvimento de Sistemas na Etec Zona Leste. Eu adoro estudar e quero sempre evoluir e aprimorar meu conhecimento.
 <br>
-### 💻Projetos
-
-
-* [Projeto de HTML e CSS](https://github.com/EnzoAlvesMatos/curso-html-css.git) é um projeto que possui alguns códigos basicos a avançado de HTML e CSS
-
 
 ### 📩 Minhas Redes Sociais
 <br>
@@ -20,8 +15,19 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
  &nbsp;
 </div>
 
+##
 
-  ##
+   ### 💻Projetos
+
+
+* [HTML e CSS](https://github.com/EnzoAlvesMatos/curso-html-css.git) : É um projeto que possui alguns códigos básicos e avançados de HTML e CSS, que eu fiz como treino pessoal.
+
+
+* [Site-android](https://github.com/EnzoAlvesMatos/Site-android.githttps://github.com/EnzoAlvesMatos/Site-android.git) : Esse projeto é uma explicação sobre o que é e como funciona o Android, e também fala um pouco sobre a sua criadora.
+
+
+* [Projeto-Cordel](https://github.com/EnzoAlvesMatos/Projeto-Cordel.git) : Esse projeto é uma demonstração de um poema em cordel em forma de site.
+
   
   
 ### 🤖 Linguagens e Tecnologias
@@ -29,8 +35,6 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
 <br>
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,react)](https://skillicons.dev)<br/>
-
-
 
 
 ###  🎯 Estatísticas
@@ -42,11 +46,3 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
-  
-
-
-
- 
-
