@@ -41,7 +41,7 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
 <br>
 
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+
 
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
