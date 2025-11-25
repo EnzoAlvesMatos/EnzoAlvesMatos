@@ -17,7 +17,7 @@ Me chamo Enzo, tenho 19 anos e moro no estado de São Paulo. Concluí o ensino m
 
 ##
 
-   ### 💻Projetos
+   ### 💻 Projetos
 
 
 * [curso-html-css](https://github.com/EnzoAlvesMatos/curso-html-css.git) : É um projeto que possui alguns códigos básicos e avançados de HTML e CSS, que eu fiz como treino pessoal.
