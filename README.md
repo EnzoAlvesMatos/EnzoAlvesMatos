@@ -26,6 +26,9 @@
  <h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1>
 <br>
 <img align="right" width="400" src="https://i.pinimg.com/originals/97/5f/9d/975f9d5761d3a768465dc2325ecf0a24.gif">
+
+<br>
+
 <div align="left">
 <a href="https://www.instagram.com/gohanleitura?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 <a href="mailto:enzoam0707m@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
@@ -65,15 +68,24 @@
 
 <h1 align="center">🎯 Estatísticas</h1>
 
-<a href="#">![](https://gitwar.herokuapp.com/badge?https://github.com/EnzoAlvesMatos/EnzoAlvesMatos)</a>
 
-
-<img  src="![](https://gitwar.herokuapp.com/badge?username=https://github.com/EnzoAlvesMatos/EnzoAlvesMatos&color=blue)"  >
-
-
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=blueberry" alt="" />
+
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_width="2"_border=true)</a>
+
+<br>
+
+<h1 align="center">😎 Obrigado por ver o meu perfil 😎</h1>
+
+<br>
+<div align="center">
+<img align="center" width="400" src="https://media.tenor.com/gEZoT1KhhtwAAAAi/son-goku-thumbs-up.gif">
+</div>
+
+
