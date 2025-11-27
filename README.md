@@ -20,10 +20,6 @@
 <p><strong>Gênero:</strong>Ele/Dele/Masculino</p>
 <p><strong>Hobbies:</strong>Ler, programar e estudar</p>
 
-
-
-<br>
-
 <br>
 
  <h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1>
