@@ -11,8 +11,10 @@
 
 <h1 align="center">👨‍💻Sobre Mim </h1>
 
-  <a  align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
-    <img width="150" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false"></a>
+
+  <a   align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
+    <img width="150" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+  </a>
 
 <br>
 <p><strong>Nome:</strong>Enzo Alves Matos</p>
