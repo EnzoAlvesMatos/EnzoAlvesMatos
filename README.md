@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">👨‍💻Sobre Mim </h1>
-<img align="right" width="150" src="https://media1.tenor.com/m/U1AOP4lL7eYAAAAd/goku-fortnite.gif">
+<img align="right" width="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
 <br>
 <p><strong>Nome:</strong>Enzo Alves Matos</p>
 <p><strong>Adoro:</strong>Animes, mangás, programar e estudar</p>
@@ -27,7 +27,7 @@
  
 <br>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/97/5f/9d/975f9d5761d3a768465dc2325ecf0a24.gif">
+<img align="right" width="400" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
 
 <br>
 
@@ -87,7 +87,7 @@
 
 <br>
 <div align="center">
-<img align="center" width="400" src="https://media.tenor.com/gEZoT1KhhtwAAAAi/son-goku-thumbs-up.gif">
+<img align="center" width="400" src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif">
 </div>
 
 
