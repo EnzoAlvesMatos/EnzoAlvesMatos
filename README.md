@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> 👍 Oii, me chamo Enzo! </h1>
+  <h1 align="center"> 👍 Oii, Eu sou Enzo! </h1>
   <img width="400" alt="foto arredondada do fundo do linkedin" src="https://github.com/user-attachments/assets/635deacb-cb42-4995-aaf7-decb55a0f5b1"/>
   <p>𝓔𝓭𝓾𝓬𝓪𝓲 𝓪𝓼 𝓬𝓻𝓲𝓪𝓷𝓬̧𝓪𝓼</p>
   <p>𝓹𝓪𝓻𝓪 𝓺𝓾𝓮 𝓷𝓪̃𝓸 𝓼𝓮𝓳𝓪</p>
@@ -24,8 +24,12 @@
 <br>
 
  <h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1>
+ 
 <br>
+
 <img align="right" width="400" src="https://i.pinimg.com/originals/97/5f/9d/975f9d5761d3a768465dc2325ecf0a24.gif">
+
+<br>
 
 <br>
 
