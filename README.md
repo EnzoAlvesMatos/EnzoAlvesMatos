@@ -10,7 +10,10 @@
 </div>
 
 <h1 align="center">👨‍💻Sobre Mim </h1>
-<img align="right" width="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+
+  <a  align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
+    <img width="150" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false"></a>
+
 <br>
 <p><strong>Nome:</strong>Enzo Alves Matos</p>
 <p><strong>Adoro:</strong>Animes, mangás, programar e estudar</p>
