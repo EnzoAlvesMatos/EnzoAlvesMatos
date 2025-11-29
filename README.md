@@ -39,9 +39,11 @@
 <a href="mailto:enzoam0909m@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-00008b?style=for-the-badge&logo=facebook&logoColor=white"></a>
- &nbsp;
-
+  
   <br>
+ <a href="https://x.com/Enzo_Alves_Dev" taget"_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@enzodev11" taget"_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+ &nbsp;
   
   <br>
 
