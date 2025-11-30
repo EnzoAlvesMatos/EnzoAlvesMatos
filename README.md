@@ -43,6 +43,7 @@
   <br>
  <a href="https://x.com/Enzo_Alves_Dev" taget"_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
   <a href="https://www.tiktok.com/@enzodev11" taget"_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://br.pinterest.com/EnzoDev11" taget"_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
  &nbsp;
   
   <br>
