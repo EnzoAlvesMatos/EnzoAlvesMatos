@@ -76,15 +76,24 @@
 <h1 align="center">🎯 Estatísticas</h1>
 
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=EnzoAlvesMatos&hide=B,B%2B&&theme=gotham)
 
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
- 
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
+
+ 
+
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=blueberry" alt="" />
 
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&layout=compact&theme=blueberry&count_private=true&hide_width="2"_border=true)</a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
+
+
 
 <br>
 
