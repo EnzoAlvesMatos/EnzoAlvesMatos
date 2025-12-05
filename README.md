@@ -95,6 +95,8 @@
 
 <br>
 
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
 
 
