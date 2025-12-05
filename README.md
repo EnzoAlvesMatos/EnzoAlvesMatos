@@ -9,20 +9,21 @@
   
 </div>
 
-<h1 align="center">👨‍💻Sobre Mim </h1>
+<h1 align="center">🖥️ Sobre Mim</h1>
 
 
-  <a   align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
-    <img width="150" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
-  </a>
+  
+  <img width="150" align="right" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
+
 
 <br>
+
 <p><strong>Nome:</strong>Enzo Alves Matos</p>
-<p><strong>Adoro:</strong>Animes, mangás, programar e estudar</p>
-<p><strong>Gênero:</strong>Ele/Dele/Masculino</p>
-<p><strong>Hobbies:</strong>Ler, programar e estudar</p>
+<p><strong>Sou Hoje:</strong>Estudante de Desenvolvimento de Sistemas</p>
+<p><strong>Meu Objetivo na Carreira:</strong>Seguir na área que estou cursando</p>
 
 <br>
+
 
  <h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1>
  
@@ -73,11 +74,25 @@
 * [Projeto-Cordel](https://github.com/EnzoAlvesMatos/Projeto-Cordel.git) : Esse projeto é uma demonstração de um poema em cordel em forma de site.
 
 
+<h1 align="center">👨‍💻 Curiosidade </h1>
+
+
+  <a   align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
+    <img width="150" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+  </a>
+
+<br>
+<p><strong>Adoro:</strong>Animes, mangás, programar e estudar</p>
+<p><strong>Gênero:</strong>Ele/Dele/Masculino</p>
+<p><strong>Hobbies:</strong>Ler, programar e estudar</p>
+
+
+
 <h1 align="center">🎯 Estatísticas</h1>
 
+<br>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=EnzoAlvesMatos&hide=B,B%2B&&theme=gotham)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
 
 
 
@@ -91,11 +106,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
-
-
-
-<br>
 
 <h1 align="center">😎 Obrigado por ver o meu perfil</h1>
 
