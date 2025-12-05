@@ -82,6 +82,9 @@
   </a>
 
 <br>
+
+<br>
+
 <p><strong>Adoro:</strong>Animes, mangás, programar e estudar</p>
 <p><strong>Gênero:</strong>Ele/Dele/Masculino</p>
 <p><strong>Hobbies:</strong>Ler, programar e estudar</p>
