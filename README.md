@@ -98,17 +98,18 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
+ <p>
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
+   
+<img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&size_weight=0.5&show_icons=true&theme=transparent&layout=compact">
+  </p> 
 
+  <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
-
- 
-
-<img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=blueberry" alt="" />
 
 
 
