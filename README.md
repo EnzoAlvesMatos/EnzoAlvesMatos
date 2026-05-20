@@ -9,7 +9,9 @@
   
 </div>
 
-<h1 align="center">🖥️ Sobre Mim</h1>
+<details>
+
+<summary><h1 align="center">🖥️ Sobre Mim</h1></summary>
 
 
   
@@ -24,8 +26,11 @@
 
 <br>
 
+</details>
 
- <h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1>
+<details>
+
+ <summary><h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1></summary>
  
 <br>
 
@@ -61,8 +66,10 @@
   
 </div>
 
+</details>
 
-<h1 align="center">💻 Projetos</h1>
+<details>
+<summary><h1 align="center">💻 Projetos</h1></summary>
 
 
 * [curso-html-css](https://github.com/EnzoAlvesMatos/curso-html-css.git) : É um projeto que possui alguns códigos básicos e avançados de HTML e CSS, que eu fiz como treino pessoal.
@@ -73,8 +80,10 @@
 
 * [Projeto-Cordel](https://github.com/EnzoAlvesMatos/Projeto-Cordel.git) : Esse projeto é uma demonstração de um poema em cordel em forma de site.
 
+</details>
 
-<h1 align="center">👨‍💻 Curiosidade </h1>
+<details>
+  <summary><h1 align="center">👨‍💻 Curiosidade </h1></summary>
 
 
   <a   align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
@@ -91,8 +100,8 @@
 <br>
 
 <br>
-
-<h1 align="center">🎯 Estatísticas</h1>
+</details>
+<details> <summary><h1 align="center">🎯 Estatísticas</h1></summary>
 
 <br>
 
@@ -101,7 +110,8 @@
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
-   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&size_weight=0.5&show_icons=true&theme=transparent&layout=compact">
   </p> 
 
@@ -111,8 +121,7 @@
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
-
-
+</details>
 
 <h1 align="center">😎 Obrigado por ver o meu perfil</h1>
 
