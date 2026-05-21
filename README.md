@@ -30,11 +30,11 @@
 
 <details>
 
- <summary><h1 align="center">📩 Minhas Redes Sociais e Tecnologias Usadas</h1></summary>
+ <summary><h1 align="center">📩 Minhas Redes Sociais</h1></summary>
  
 <br>
 
-<img align="right" width="400" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
+<img align="right" width="300" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
 
 <br>
 
@@ -53,11 +53,7 @@
    <a href="https://www.reddit.com/user/EnzoDev11/" taget"_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
  &nbsp;
   
-  <br>
-
-  <br>
   
-  [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,react)](https://skillicons.dev)<br/>
  
   <br>
   
@@ -67,7 +63,6 @@
 </div>
 
 </details>
-
 <details>
 <summary><h1 align="center">💻 Projetos</h1></summary>
 
@@ -80,6 +75,26 @@
 
 * [Projeto-Cordel](https://github.com/EnzoAlvesMatos/Projeto-Cordel.git) : Esse projeto é uma demonstração de um poema em cordel em forma de site.
 
+</details>
+
+<details>
+  <summary><h1 align="center"> 🤖 Tecnologias Usadas</h1></summary>
+  
+  <img align="right" width="200" src="https://media1.tenor.com/m/S4Sz_yvlLn4AAAAC/cats-cat.gif">
+
+  <br>
+  
+  <div align="left">
+
+  <br>
+    
+  [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,react)](https://skillicons.dev)<br/>
+
+  </div>
+  <br>
+
+  <br>
+  
 </details>
 
 <details>
@@ -105,29 +120,31 @@
 
 <br>
 
-<br>
 
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&size_weight=0.5&show_icons=true&theme=transparent&layout=compact">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
   </p> 
 
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=1F222E&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
 </details>
 
-<h1 align="center">😎 Obrigado por ver o meu perfil</h1>
+<details>
+  
+<summary><h1 align="center">😎 Obrigado por ver o meu perfil</h1></summary>
+
 
 <br>
 <div align="center">
 <img align="center" width="400" src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif">
 </div>
 
-
+</details>
