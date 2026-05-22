@@ -1,36 +1,55 @@
-<div align="center">
-  <h1 align="center"> 👍 Oii, Eu sou Enzo! </h1>
-  <img width="400" alt="foto arredondada do fundo do linkedin" src="https://github.com/user-attachments/assets/635deacb-cb42-4995-aaf7-decb55a0f5b1"/>
-  <p>𝓔𝓭𝓾𝓬𝓪𝓲 𝓪𝓼 𝓬𝓻𝓲𝓪𝓷𝓬̧𝓪𝓼</p>
-  <p>𝓹𝓪𝓻𝓪 𝓺𝓾𝓮 𝓷𝓪̃𝓸 𝓼𝓮𝓳𝓪</p>
-  <p>𝓷𝓮𝓬𝓮𝓼𝓼𝓪́𝓻𝓲𝓸 𝓹𝓾𝓷𝓲𝓻</p>
-  <p>𝓸𝓼 𝓪𝓭𝓾𝓵𝓽𝓸𝓼</p>
-  <a href="https://www.pensador.com/frases_importancia_educacao/">𝓣𝓮𝔁𝓽𝓸 𝓮𝓼𝓬𝓻𝓲𝓽𝓸 𝓹𝓸𝓻 - 𝓟𝓲𝓽𝓪́𝓰𝓸𝓻𝓪𝓼</a>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15e5a6,100:0E8C65&height=180&section=header&text=Enzo%20Alves%20Matos&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+  <br>
+
+  <h1 align="center">👨🏽‍💻 EnzoDev</h1>
   
-</div>
+  <div align="center">
+
+📘 Formação em Técnico em Desenvolvimento de Sistemas
+<br>
+🎓 O Que Sou Hoje Estudante de Ciência da Computação
+<br>
+💻 Objetivo na Carreira é Seguir na área que estou cursando 
+    
+  </div>
+
 
 <details>
 
-<summary><h1 align="center">🖥️ Sobre Mim</h1></summary>
+<summary><h2 align="center">🖥️ Sobre Mim</h2></summary>
 
 
-  
-  <img width="150" align="right" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
-
+<img width="200" align="right" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <br>
 
-<p><strong>Nome:</strong>Enzo Alves Matos</p>
-<p><strong>Sou Hoje:</strong>Estudante de Desenvolvimento de Sistemas</p>
-<p><strong>Meu Objetivo na Carreira:</strong>Seguir na área que estou cursando</p>
+<p align="left"> 
+  Meu nome é Enzo Alves Matos, sou formado em Técnico em
+  <br>
+  Desenvolvimento de Sistemas e, atualmente,
+  <br>
+  curso Ciência da Computação. Sou apaixonado
+  <br>
+  por desenvolvimento front-end e meu foco atual 
+  <br>
+  é aprimorar minhas habilidades para, no futuro, atuar
+  <br>
+  profissionalmente na  criação de sites.</p>
 
 <br>
 
 </details>
 
-<details>
 
- <summary><h1 align="center">📩 Minhas Redes Sociais</h1></summary>
+
+<details>
+<summary><h2 align="center">📩 Minhas Redes Sociais</h2></summary>
+
+
+
+
+ 
  
 <br>
 
@@ -64,7 +83,9 @@
 
 </details>
 <details>
-<summary><h1 align="center">💻 Projetos</h1></summary>
+
+  
+<summary><h2 align="center">💻 Projetos</h2></summary>
 
 
 * [curso-html-css](https://github.com/EnzoAlvesMatos/curso-html-css.git) : É um projeto que possui alguns códigos básicos e avançados de HTML e CSS, que eu fiz como treino pessoal.
@@ -78,7 +99,7 @@
 </details>
 
 <details>
-  <summary><h1 align="center"> 🤖 Tecnologias Usadas</h1></summary>
+  <summary><h2 align="center"> 🤖 Tecnologias Usadas</h2></summary>
   
   <img align="right" width="200" src="https://media1.tenor.com/m/S4Sz_yvlLn4AAAAC/cats-cat.gif">
 
@@ -98,7 +119,8 @@
 </details>
 
 <details>
-  <summary><h1 align="center">👨‍💻 Curiosidade </h1></summary>
+
+  <summary><h2 align="center">👨‍💻 Curiosidade </h2></summary>
 
 
   <a   align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true">
@@ -116,35 +138,28 @@
 
 <br>
 </details>
-<details> <summary><h1 align="center">🎯 Estatísticas</h1></summary>
+<details>
+  <summary><h2 align="center">🎯 Estatísticas</h2></summary>
 
 <br>
 
+<h2>🔥 Estatísticas de sequência</h2>
 
+[![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
+  
+<h2>💻 Estatísticas do perfil do GitHub</h2>
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
   </p> 
 
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=1F222E&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=0C1014&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
-
-</details>
-
-<details>
-  
-<summary><h1 align="center">😎 Obrigado por ver o meu perfil</h1></summary>
-
-
-<br>
-<div align="center">
-<img align="center" width="400" src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif">
-</div>
 
 </details>
