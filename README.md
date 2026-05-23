@@ -190,7 +190,15 @@
 <div align="center">
 <h3 align="center">🎧 Spotify</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31msqdph6gdzelgixnpxe6ikzg7q&redirect=true)
+
+
+<a href="https://open.spotify.com/user/31msqdph6gdzelgixnpxe6ikzg7q">
+  <img 
+    height="120"
+    src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31msqdph6gdzelgixnpxe6ikzg7q&cover_image=true&theme=novatorem"
+  />
+</a>
+
  </div>
 
 ---
