@@ -172,14 +172,14 @@
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&locale=pt-br&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
   </p> 
 
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&bg_color=0C1014&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&custom_title=Gráfico%20de%20Contribuição%20de%20Enzo%20Alves%20Matos&bg_color=0C1014&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
