@@ -21,24 +21,18 @@
 <summary><h2 align="center">🖥️ Sobre Mim</h2></summary>
 
 
-<img width="200" align="right" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <br>
 
 <p align="left"> 
   Meu nome é Enzo Alves Matos, sou formado em Técnico em
-  <br>
   Desenvolvimento de Sistemas e, atualmente,
   <br>
   curso Ciência da Computação. Sou apaixonado
-  <br>
   por desenvolvimento front-end e meu foco atual 
   <br>
   é aprimorar minhas habilidades para, no futuro, atuar
-  <br>
   profissionalmente na  criação de sites.</p>
-
-<br>
 
 
 ---
@@ -52,6 +46,8 @@
 
 
 <img align="right" width="300" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
+
+<br>
 
 <br>
 
