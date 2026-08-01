@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15e5a6,100:0E8C65&height=180&section=header&text=Enzo%20Alves%20Matos&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Enzo%20Alves%20Matos&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
   <br>
 
@@ -54,20 +54,20 @@
 
 <div align="left">
 <br>
-<a href="https://www.instagram.com/enzodev1/?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
-<a href="mailto:enzoam0909m@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-00008b?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/enzodev1/?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-6100A3?style=for-the-badge&logo=instagram&logoColor=white)"></a>
+<a href="mailto:enzoam0909m@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-2b00A3?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-6100A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-2b00A3?style=for-the-badge&logo=facebook&logoColor=white"></a>
   
   <br>
- <a href="https://x.com/Enzo_Alves_Dev" taget"_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@enzodev11" taget"_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://br.pinterest.com/EnzoDev11" taget"_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
-   <a href="https://www.reddit.com/user/EnzoDev11/" taget"_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+ <a href="https://x.com/Enzo_Alves_Dev" taget"_blank"><img src="https://img.shields.io/badge/Twitter/X-2b00A3?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@enzodev11" taget"_blank"><img src="https://img.shields.io/badge/TikTok-6100A3?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://br.pinterest.com/EnzoDev11" taget"_blank"><img src="https://img.shields.io/badge/Pinterest-2b00A3.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
+   <a href="https://www.reddit.com/user/EnzoDev11/" taget"_blank"><img src="https://img.shields.io/badge/Reddit-6100A3?style=for-the-badge&logo=reddit&logoColor=white"></a>
  &nbsp;
  
   <br>
-  <a href="discordapp.com/users/1507521994726313984" taget"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="discordapp.com/users/1507521994726313984" taget"_blank"><img src="https://img.shields.io/badge/Discord-6100A3?style=for-the-badge&logo=discord&logoColor=white"></a>
  
   <br>
   
@@ -90,7 +90,7 @@
 * [curso-html-css](https://github.com/EnzoAlvesMatos/curso-html-css.git) : É um projeto que possui alguns códigos básicos e avançados de HTML e CSS, que eu fiz como treino pessoal.
 
 
-* [Site-android](https://github.com/EnzoAlvesMatos/Site-android.githttps://github.com/EnzoAlvesMatos/Site-android.git) : Esse projeto é uma explicação sobre o que é e como funciona o Android, e também fala um pouco sobre a sua criadora.
+* [Site-android](https://github.com/EnzoAlvesMatos/Site-android.git) : Esse projeto é uma explicação sobre o que é e como funciona o Android, e também fala um pouco sobre a sua criadora.
 
 
 * [Projeto-Cordel](https://github.com/EnzoAlvesMatos/Projeto-Cordel.git) : Esse projeto é uma demonstração de um poema em cordel em forma de site.
@@ -106,33 +106,33 @@
   <div align="left">
 
 <h3>🛜 Linguagens de Programação e Marcação</h3>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2b00A3.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-6100A3.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2b00A3.svg?logo=javascript&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6100A3.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-2b00A3.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-6100A3.svg?logo=database&logoColor=white"></a>
 
   <br>
 
 <h3>🧰 Frameworks e Bibliotecas</h3>
 
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2b00A3.svg?logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-6100A3.svg?logo=react&logoColor=FFFFFF"></a>
    
   <h3>🗄️ Bancos de dados e hospedagem em nuvem</h3>
 
-   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2b00A3.svg?logo=github&logoColor=white"></a>
+   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-6100A3.svg?logo=mongodb&logoColor=white"></a>
+   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2b00A3.svg?logo=mysql&logoColor=white"></a>
+   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-6100A3.svg?logo=sqlite&logoColor=white"></a>
 
 
    <h3>💾 Software e Ferramentas</h3>
 
-   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-   <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-2b00A3.svg?logo=discord&logoColor=white"></a>
+   <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-6100A3?logo=obs-studio&logoColor=white"></a>
+         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2b00A3.svg?logo=visual-studio-code&logoColor=white"></a>
   </div>
 
 ---
@@ -166,20 +166,20 @@
 
 <h3>🔥 Estatísticas de sequência</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=EnzoAlvesMatos&theme=gotham&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=EnzoAlvesMatos&theme=midnight-purple&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
   
 <h3>💻 Estatísticas do perfil do GitHub</h3>
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=15e5a6" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&locale=pt-br&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0C1014&title_color=15e5a6&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=react&hide_border=false&bg_color=000000&title_color=9745F5&icon_color=9745F5" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&locale=pt-br&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=000000&title_color=9745F5&icon_color=9745F5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
   </p> 
 
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&custom_title=Gráfico%20de%20Contribuição%20de%20Enzo%20Alves%20Matos&bg_color=0C1014&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&custom_title=Gráfico%20de%20Contribuição%20de%20Enzo%20Alves%20Matos&bg_color=000000&color=9745F5&line=9745F5&point=9745F5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
