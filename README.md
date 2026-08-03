@@ -67,7 +67,7 @@
  &nbsp;
  
   <br>
-  <a href="discordapp.com/users/1507521994726313984" taget"_blank"><img src="https://img.shields.io/badge/Discord-6100A3?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="[discordapp.com/users/1507521994726313984](https://discord.gg/dzc9U4GG)" taget"_blank"><img src="https://img.shields.io/badge/Discord-6100A3?style=for-the-badge&logo=discord&logoColor=white"></a>
  
   <br>
   
