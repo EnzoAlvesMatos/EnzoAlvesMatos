@@ -55,7 +55,7 @@
 <div align="left">
 <br>
 <a href="https://www.instagram.com/enzodev1/?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-6100A3?style=for-the-badge&logo=instagram&logoColor=white)"></a>
-<a href="mailto:enzoam0909@gmail.com" taget="_blank"><img src="https://img.shields.io/badge/Gmail-2b00A3?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://criarmeulink.com.br/u/1785864539" taget"_blank"><img src="https://img.shields.io/badge/Gmail-2b00A3?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-6100A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.facebook.com/emdxqenzo.alvesmecanismos.9?locale=pt_BR" taget"_blank"><img src="https://img.shields.io/badge/Facebook-2b00A3?style=for-the-badge&logo=facebook&logoColor=white"></a>
   
