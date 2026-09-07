@@ -67,7 +67,8 @@
  &nbsp;
  
   <br>
-  <a href="https://discord.com/invite/dzc9U4GG" taget"_blank"><img src="https://img.shields.io/badge/Discord-6100A3?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/@EnzoDev11" taget"_blank"><img src="https://img.shields.io/badge/Discord-6100A3?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/enzodev1/?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/youtube-2b00A3?style=for-the-badge&logo=youtube&logoColor=white)"></a>
  
   <br>
   
