@@ -75,9 +75,6 @@
   
   <br>
 
-  <br>
-
-  <br>
   
 ---
   
@@ -145,12 +142,13 @@
 
 <br>
 
+<img width="300" align="right" alt="Happy Game GIF by Scaler" src="https://github.com/user-attachments/assets/08e4d4ea-a03c-47a1-9cd0-53231139e0f7" />
+
+<br>
 
 <p><strong>Adoro:</strong> Animes, mangás, programar e estudar</p>
 <p><strong>Gênero:</strong> Ele/Dele/Masculino</p>
 <p><strong>Hobbies:</strong> Ler, programar e estudar</p>
-
-
 
 <br>
 
