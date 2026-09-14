@@ -36,10 +36,7 @@
 
 
 ---
-
 </details>
-
-
 
 <details>
 <summary><h2 align="center">📩 Minhas Redes Sociais</h2></summary>
@@ -49,7 +46,7 @@
 
 <br>
 
-<br>
+
 
 
 <div align="left">
@@ -72,7 +69,7 @@
     <a href="https://dev.to/enzoalvesmato" taget"_blank"><img src="https://img.shields.io/badge/dev.to-6100A3?style=for-the-badge&logo=dev.to&logoColor=white"></a>
  
   <br>
-  
+
   <br>
 
   
@@ -140,17 +137,17 @@
 
   <summary><h2 align="center">👨‍💻 Curiosidade </h2></summary>
 
-<br>
+
 
 <img width="300" align="right" alt="Happy Game GIF by Scaler" src="https://github.com/user-attachments/assets/08e4d4ea-a03c-47a1-9cd0-53231139e0f7" />
 
 <br>
 
+
+
 <p><strong>Adoro:</strong> Animes, mangás, programar e estudar</p>
 <p><strong>Gênero:</strong> Ele/Dele/Masculino</p>
 <p><strong>Hobbies:</strong> Ler, programar e estudar</p>
-
-<br>
 
 <br>
 
@@ -160,7 +157,6 @@
 <details>
   <summary><h2 align="center">🎯 Estatísticas</h2></summary>
 
-<br>
 
 <h3>🔥 Estatísticas de sequência</h3>
 
@@ -169,8 +165,6 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=EnzoAlvesMatos&theme=midnight-purple&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
   
 <h3>💻 Estatísticas do perfil do GitHub</h3>
-
-
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesMatos&show_icons=true&theme=transparent" alt="" />
 
