@@ -46,9 +46,6 @@
 
 <br>
 
-
-
-
 <div align="left">
 <br>
 <a href="https://www.instagram.com/enzodev1/?igsh=MXd3Z2N2Y3UxaWgxcQ==" taget"_blank"><img src="https://img.shields.io/badge/Instagram-6100A3?style=for-the-badge&logo=instagram&logoColor=white)"></a>
@@ -148,6 +145,8 @@
 <p><strong>Adoro:</strong> Animes, mangás, programar e estudar</p>
 <p><strong>Gênero:</strong> Ele/Dele/Masculino</p>
 <p><strong>Hobbies:</strong> Ler, programar e estudar</p>
+
+<br>
 
 <br>
 
