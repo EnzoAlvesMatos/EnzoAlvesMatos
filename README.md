@@ -140,6 +140,7 @@
 
 <br>
 
+<br>
 
 
 <p><strong>Adoro:</strong> Animes, mangás, programar e estudar</p>
@@ -148,7 +149,6 @@
 
 <br>
 
-<br>
 
 ---
 
