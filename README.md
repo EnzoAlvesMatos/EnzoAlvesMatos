@@ -42,7 +42,7 @@
 <summary><h2 align="center">📩 Minhas Redes Sociais</h2></summary>
 
 
-<img align="right" width="300" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
+<img align="right" width="300" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
 
 <br>
 
@@ -136,7 +136,7 @@
 
 
 
-<img width="300" align="right" alt="Happy Game GIF by Scaler" src="https://github.com/user-attachments/assets/08e4d4ea-a03c-47a1-9cd0-53231139e0f7" />
+<img width="300" align="right" alt="Happy Game GIF by Scaler" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" />
 
 <br>
 
