@@ -135,9 +135,9 @@
   <summary><h2 align="center">👨‍💻 Curiosidade </h2></summary>
 
 
-
+<div>
 <img width="300" align="right" alt="Happy Game GIF by Scaler" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" />
-
+</div>
 <br>
 
 <br>
