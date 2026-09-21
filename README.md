@@ -139,6 +139,7 @@
 
 <br>
 
+<br>
 
 <div  style="min-width: 300;" align="left" >
  
@@ -148,8 +149,6 @@
 
 - <p><strong>Hobbies:</strong> Ler, programar e estudar</p>
 </div>
-
-<br>
 
 <br>
 
