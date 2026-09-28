@@ -95,8 +95,9 @@
 
   <div align="left">
 
-<h3>🛜 Linguagens de Programação e Marcação</h3>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2b00A3.svg?logo=CSS&logoColor=white"></a>
+<h3>🧑🏼‍💻 Linguagens de Programação e Marcação</h3>
+
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2b00A3.svg?logo=CSS&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-6100A3.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2b00A3.svg?logo=javascript&logoColor=white"></a>
            <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-6100A3.svg?logo=database&logoColor=white"></a>
