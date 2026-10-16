@@ -42,7 +42,7 @@
 <summary><h2 align="center">📩 Minhas Redes Sociais</h2></summary>
 
 
-<img align="right" width="300" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+<img style="border: 1px solid white;" align="right" width="300" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
 
 <br>
 
