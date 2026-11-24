@@ -167,19 +167,20 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=EnzoAlvesMatos&theme=midnight-purple&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
   
 <h3>💻 Estatísticas do perfil do GitHub</h3>
+<!--
  <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EnzoAlvesMatos&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=react&hide_border=false&bg_color=000000&title_color=9745F5&icon_color=9745F5" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesMatos&locale=pt-br&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=000000&title_color=9745F5&icon_color=9745F5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
   </p> 
+  -->
 
-<!--   <br>
+   <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAlvesMatos&custom_title=Gráfico%20de%20Contribuição%20de%20Enzo%20Alves%20Matos&bg_color=000000&color=9745F5&line=9745F5&point=9745F5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
 <br>
--->
+
 
 </details>
 
